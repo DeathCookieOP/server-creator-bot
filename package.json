@@ -1,0 +1,30 @@
+{
+  "name": "watchdog",
+  "version": "1.0.0",
+  "description": "A discord moderation, info, and fun bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeathCookieOP and Nystrex",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-constructor": "^1.0.1",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.5.0",
+    "fortnite": "^4.1.1",
+    "google-translate-api": "^2.3.0",
+    "ms": "^2.1.1",
+    "mysql": "^2.15.0",
+    "nan": "^2.10.0",
+    "node-fetch": "^2.1.2",
+    "node-gyp": "^3.6.2",
+    "python": "0.0.4",
+    "quick.db": "^6.3.1",
+    "quick.hook": "^1.4.2",
+    "rebuild": "^0.1.2",
+    "sequelize": "^4.37.10",
+    "sqlite": "^2.9.2",
+    "string-similarity": "^1.2.0"
+  }
+}
